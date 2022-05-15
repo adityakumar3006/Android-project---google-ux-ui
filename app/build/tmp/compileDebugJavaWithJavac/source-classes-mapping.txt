@@ -1,0 +1,2 @@
+com/aditya/example/google/BuildConfig.java
+ com.aditya.example.google.BuildConfig
